@@ -1,8 +1,20 @@
-## Modified parts to allow a Voron 2.4 to have a USB and 24v power connection to the Box Turtle.
+## Box Turtle Modified Rear Skirts
 
-24v Connection provided via a 2 pin Molex MicroFit3.0 (43640-0200) in the Skirt for both the Voron 2.4 and the Box Turtle.
+PG7 hole removed in favour of the below.
 
-Removed the PG7 hole in the Box Turtle skirt and added a USB Keystone mount, fan mount shifted moved to avoid thin walls. Added 2 MicroFit3 2 pin (43640-0200) holes to connect the Turtleneck buffer. 2nd option of having two keystone jacks in the Box Turtle Skirt. 
+### Both Versions
+- Both versions have a connections for the Turtleneck Buffer by way of 2 pin Molex MicroFit3.0 (43640-0200)
+
+### USB Version
+- Uses a USB Keystone [Amazon UK](https://www.amazon.co.uk/dp/B0D7BZH3LY) to connect usb and 24v Connection provided via a 2 pin Molex MicroFit3.0 (43640-0200). Voron 2.4 Keystone skirt modified to add in a 2 pin MicroFit3 (43640-0200) to connect 24v. (Trident coming shortly)
+
+### CAN Version (in testing)
+- 2x 4 pin Molex MicroFit3 (43640-0400) connectors to allow for CAN in and out.
+
+### Double Keystone 
+- Exactly what it says. 2 holes sized for the Keystones of your choice
+
+<hr>
 
 Parts marked Box Turtle originally designed by [ArmoredTurtle](https://github.com/ArmoredTurtle)
 
